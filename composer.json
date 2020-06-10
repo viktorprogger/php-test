@@ -1,0 +1,11 @@
+{
+    "name": "yiisoft/test",
+    "type": "project",
+    "require": {
+        "php": "^7.4",
+        "yiisoft/di": "^3.0@dev",
+        "yiisoft/event-dispatcher": "^3.0@dev",
+        "yiisoft/yii-console": "^3.0@dev"
+    },
+    "minimum-stability": "dev"
+}
